@@ -10,11 +10,43 @@
     },
     "items": [
         {
+            "id": "https://JBaskett.github.io/ThingsIWrote/lessons-from-the-laundry.html",
+            "url": "https://JBaskett.github.io/ThingsIWrote/lessons-from-the-laundry.html",
+            "title": "Lessons From The Laundry",
+            "summary": "Be Like Trousers",
+            "content_html": "Be Like Trousers",
+            "image": "https://JBaskett.github.io/ThingsIWrote/media/posts/6/94880392_656149825233918_4916004135184105472_n.jpg",
+            "author": {
+                "name": "James Baskett"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-29T21:47:38+01:00",
+            "date_modified": "2020-04-29T21:47:38+01:00"
+        },
+        {
+            "id": "https://JBaskett.github.io/ThingsIWrote/next-door-but-one.html",
+            "url": "https://JBaskett.github.io/ThingsIWrote/next-door-but-one.html",
+            "title": "Next Door But One",
+            "summary": " Which one was it again... Oh next door but three, that's&hellip;",
+            "content_html": "<p class=\"p1 align-center\"> </p>\n<p class=\"align-center\">Which one was it again... Oh next door but three, that's teh fourth one right? This is a little poems about my street. </p>\n<p class=\"align-center\"> </p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/p54GQUJZj7U\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe>\n<p class=\"p1 align-center\"><span class=\"s1\">Next door but one is not next door to me,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">But next to the house next to next door but three.</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Next door but two is the next one along,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">And next door but four is the fifth, which sounds wrong.</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">We get the post meant for next door but five,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Dad says it’s because they have such a long drive.</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">None of these houses are next door to me,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Because next door is next door, obviously.</span></p>",
+            "image": "https://JBaskett.github.io/ThingsIWrote/media/posts/3/94887568_520590958608171_6940254434043625472_n.jpg",
+            "author": {
+                "name": "James Baskett"
+            },
+            "tags": [
+                   "Poems"
+            ],
+            "date_published": "2020-04-29T20:58:45+01:00",
+            "date_modified": "2020-04-29T21:01:47+01:00"
+        },
+        {
             "id": "https://JBaskett.github.io/ThingsIWrote/poems.html",
             "url": "https://JBaskett.github.io/ThingsIWrote/poems.html",
-            "title": "Poems",
-            "summary": "Well wouldn't it be nice to be able to write a poem&hellip;",
-            "content_html": "Well wouldn't it be nice to be able to write a poem at this time of night!",
+            "title": "If I Were You ",
+            "summary": "Advice isn't always easy to give, sometimes we don't quite mean what&hellip;",
+            "content_html": "<p class=\"align-center\">Advice isn't always easy to give, sometimes we don't quite mean what we say and sometimes we don't quite say what we mean. This is 'If I Were You'</p>\n<p class=\"align-center\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qe1tbianUWA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>‘If I were you’,</strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">They say to me,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">‘I wouldn’t sit there,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">In that tree.’</span></p>\n<p class=\"p2 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>Yes you would, </strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">It’s plain to see,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">If you were I, </span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">And I still me,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">We would both,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Be in the tree.</span></p>\n<p class=\"p2 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>You would not be, </strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">There below,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">To tell me, </span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Where I ought not go.</span></p>\n<p class=\"p3 align-center\"> </p>\n<p class=\"p1 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>If you were I,</strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">And I were thee,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">You would still be,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">In the tree.</span></p>\n<p class=\"p2 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>But I would be there,</strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Down below,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">To tell thee where thou,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Ought not go.</span></p>\n<p class=\"p3 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>And you would sit,</strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Where I am now,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Wondering,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Quite why and how,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">One below,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Assumes as me,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">They would not want,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">To climb the tree.</span></p>\n<p class=\"p2 align-center\"> </p>\n<p class=\"p1 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>I think, therefore, </strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">For both of us,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">You should rephrase,</span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Your sentence thus:</span></p>\n<p class=\"p2 align-center\"> </p>\n<p class=\"p1 align-center\"><span class=\"s1\"><strong>‘If you were me,</strong></span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">You would not be, </span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">Sitting up there, </span></p>\n<p class=\"p1 align-center\"><span class=\"s1\">In a tree.’</span></p>",
+            "image": "https://JBaskett.github.io/ThingsIWrote/media/posts/2/94962401_566400990653695_8478749360564207616_n.jpg",
             "author": {
                 "name": "James Baskett"
             },
@@ -22,7 +54,7 @@
                    "Poems"
             ],
             "date_published": "2020-04-28T23:23:03+01:00",
-            "date_modified": "2020-04-28T23:23:03+01:00"
+            "date_modified": "2020-04-29T20:55:37+01:00"
         },
         {
             "id": "https://JBaskett.github.io/ThingsIWrote/hello-world.html",
