@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Things I Wrote</title>
+    <link href="https://JBaskett.github.io/ThingsIWrote/feed.xml" rel="self" />
+    <link href="https://JBaskett.github.io/ThingsIWrote" />
+    <updated>2020-04-29T12:54:41+01:00</updated>
+    <author>
+        <name>James Baskett</name>
+    </author>
+    <id>https://JBaskett.github.io/ThingsIWrote</id>
+
+    <entry>
+        <title>Poems</title>
+        <author>
+            <name>James Baskett</name>
+        </author>
+        <link href="https://JBaskett.github.io/ThingsIWrote/poems.html"/>
+        <id>https://JBaskett.github.io/ThingsIWrote/poems.html</id>
+            <category term="Poems"/>
+
+        <updated>2020-04-28T23:23:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Well wouldn't it be nice to be able to write a poem&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Well wouldn't it be nice to be able to write a poem at this time of night!
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>James Baskett</name>
+        </author>
+        <link href="https://JBaskett.github.io/ThingsIWrote/hello-world.html"/>
+        <id>https://JBaskett.github.io/ThingsIWrote/hello-world.html</id>
+
+        <updated>2020-04-28T22:58:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JBaskett.github.io/ThingsIWrote/media/posts/1/21728732_1454380777983547_1525603631066977987_o.jpg" alt="" />
+                    This is my first test post as I learn the basics of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://JBaskett.github.io/ThingsIWrote/media/posts/1/21728732_1454380777983547_1525603631066977987_o.jpg" alt="" />
+                This is my first test post as I learn the basics of this new art form
+            ]]>
+        </content>
+    </entry>
+</feed>

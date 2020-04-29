@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Things I Wrote",
+    "description": "",
+    "home_page_url": "https://JBaskett.github.io/ThingsIWrote",
+    "feed_url": "https://JBaskett.github.io/ThingsIWrote/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "James Baskett"
+    },
+    "items": [
+        {
+            "id": "https://JBaskett.github.io/ThingsIWrote/poems.html",
+            "url": "https://JBaskett.github.io/ThingsIWrote/poems.html",
+            "title": "Poems",
+            "summary": "Well wouldn't it be nice to be able to write a poem&hellip;",
+            "content_html": "Well wouldn't it be nice to be able to write a poem at this time of night!",
+            "author": {
+                "name": "James Baskett"
+            },
+            "tags": [
+                   "Poems"
+            ],
+            "date_published": "2020-04-28T23:23:03+01:00",
+            "date_modified": "2020-04-28T23:23:03+01:00"
+        },
+        {
+            "id": "https://JBaskett.github.io/ThingsIWrote/hello-world.html",
+            "url": "https://JBaskett.github.io/ThingsIWrote/hello-world.html",
+            "title": "Hello World",
+            "summary": "This is my first test post as I learn the basics of&hellip;",
+            "content_html": "This is my first test post as I learn the basics of this new art form",
+            "image": "https://JBaskett.github.io/ThingsIWrote/media/posts/1/21728732_1454380777983547_1525603631066977987_o.jpg",
+            "author": {
+                "name": "James Baskett"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-28T22:58:54+01:00",
+            "date_modified": "2020-04-28T22:58:54+01:00"
+        }
+    ]
+}
